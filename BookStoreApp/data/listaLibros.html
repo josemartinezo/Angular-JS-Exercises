@@ -1,0 +1,7 @@
+<ul class="list-group nav nav-pills">
+    <li class="list-group-item" ng-repeat="book in books | filter: searchBox | orderBy: sortColumn">
+    	<div class="container" ng-include src=" 'data/detalle.html' "></div>
+    </li>
+</ul>
+
+

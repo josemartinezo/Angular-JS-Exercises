@@ -1,0 +1,10 @@
+[
+	{
+		"id": "4",
+		"titulo": "Harry Potter",
+		"autor": "J. K. Rowling",
+		"editorial": "Bloomsbury Publishing",
+		"descripcion": "Harry Potter (también abreviado HP) es una serie de novelas fantásticas escrita por la autora británica J. K. Rowling, considerada una de las sagas más importantes de la historia. Realmente la más leída según el Libro de los récords Guiness. En ella se describen las aventuras del joven aprendiz de magia y hechicería Harry Potter y sus amigos Hermione Granger y Ron Weasley, durante los años que pasan en el Colegio Hogwarts de Magia y Hechicería. El argumento se centra en la lucha entre Harry Potter y el malvado mago Lord Voldemort, quien asesinó a los padres de Harry en un intento fallido de matar a Harry, para así poder acabar con la profecía que citaba su propia muerte.",
+		"img": "public/img/img4.jpg"
+	}
+]

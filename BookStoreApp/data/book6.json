@@ -1,0 +1,10 @@
+[
+	{
+		"id": "6",
+		"titulo": "Animales fantásticos y dónde encontrarlos",
+		"autor": "J. K. Rowling",
+		"editorial": "Bloomsbury Publishing",
+		"descripcion": "Animales fantásticos y dónde encontrarlos pretende ser una reproducción de un libro de texto propiedad de Harry Potter y escrito por el magizoólogo Newt Scamander. En la serie, la magizoología es el estudio de las criaturas mágicas. Albus Dumbledore, director de Hogwarts, proporciona el Prólogo y explica el propósito de la edición especial de este libro (la caridad de Comic Relief). Al final, le dice al lector, «(...) las asombrosas criaturas que se describen a continuación son imaginarios y no pueden hacerles daño.» Él repite el lema de Hogwarts: «Draco dormiens nunquam titillandus», el latín para «Nunca le hagas cosquillas a un dragón dormido».",
+		"img": "public/img/img6.jpg"
+	}
+]

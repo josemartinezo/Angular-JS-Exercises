@@ -1,0 +1,10 @@
+[
+	{
+		"id": "5",
+		"titulo": "Divina comedia",
+		"autor": "Dante Alighieri",
+		"editorial": "Editorial Océano",
+		"descripcion": "Libro más famoso de su autor, es una de las obras fundamentales de la transición del pensamiento medieval (teocentrista) al renacentista (antropocentrista). Es considerada la obra maestra de la literatura italiana y una de las cumbres de la literatura universal. Se considera por tanto que la redacción de la primera parte habría sido alternada con la redacción del Convivium y De Vulgari Eloquentia, mientras que De Monarchia pertenecería a la época de la segunda o tercera etapa, a la última de las cuales hay que atribuir sin duda la de dos obras de menor empeño: la Cuestión de agua y la tierra y las dos églogas escritas en respuesta a sendos poemas de Giovanni de Regina.",
+		"img": "public/img/img5.jpg"
+	}
+]
